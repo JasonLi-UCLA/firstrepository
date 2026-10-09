@@ -1,1 +1,2 @@
 My notes for Stats 21
+Learning Git and GitHub
